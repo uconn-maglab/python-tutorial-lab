@@ -18,5 +18,22 @@
 
 * Distribute links to Python and Git by 10/6 (preferably 10/5)
 * Make list of resources for further study (codecademy, sololearn, etc.)
+* Find Paul's JTerm notebook
+* Pick format
+  * I'm thinking present an idea and then tell pepole to write a tiny version ("This is a print statement. This is a string. Print 'Hello world!')
+  * Maaayyybe something like what Nodeschool does?
+* Pick topics
+  
+## Topics to cover
+
+* How to actually run a python program, and/or the interpreter
+* Strings, print
+* Variables
+* Other data types, including lists
+* Iteration
+* Control flow
+* Basic objects (I imagine attributes and methods are important in PsychoPy)
+
+## Resources
 
 [more to come]
