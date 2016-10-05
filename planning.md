@@ -36,4 +36,14 @@
 
 ## Resources
 
+* Codecademy
+* Codeschool
+* HackerRank
+* https://olimex.wordpress.com/2014/06/12/collection-of-51-free-e-books-for-python-programming/
+* http://docs.python-guide.org/en/latest/intro/learning/
+* https://docs.python.org/3/tutorial/index.html
+* http://interactivepython.org/courselib/static/thinkcspy/GeneralIntro/ThePythonProgrammingLanguage.html
+* https://www.fullstackpython.com/best-python-resources.html
+* https://checkio.org/
+
 [more to come]
