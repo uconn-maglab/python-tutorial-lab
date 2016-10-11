@@ -87,4 +87,4 @@ Move onto `02_numbers.md` to see what else you can do with Python.
 4. Tips:
     * `~/` is short for `/home/username/`
     * If there are spaces in your file path, **escape** them by writing a backslash `\` (e.g., `~/Documents/My\ Folder`)
-    * You can write the first few letters of a folder's name and then hit tab, and it will complete it for you if the onset it unique (think cohort model)
+    * You can write the first few letters of a folder's name and then hit tab, and it will complete it for you if the onset is unique (think cohort model)
