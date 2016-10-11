@@ -12,7 +12,7 @@
     * [GitUp](http://gitup.co/) for visually-oriented Mac users
     * [GitHub Desktop](https://desktop.github.com/) for Windows and Mac. Made by GitHub (good for integration with GitHub), medium in features and technical level
     * [GitKraken](https://www.gitkraken.com/) for Windows, Mac, and Linux. Fairly technical, but clean and powerful (except don't use `~/` because it will *make a directory called `~`*), great name
-* I'll show people how to get the materials from GH at the meeting, but they'll be available in advance for the precocious 
+* I'll show people how to get the materials from GH at the meeting, but they'll be available in advance for the precocious
 
 ## Prep for me
 
@@ -23,7 +23,7 @@
   * I'm thinking present an idea and then tell pepole to write a tiny version ("This is a print statement. This is a string. Print 'Hello world!')
   * Maaayyybe something like what Nodeschool does?
 * Pick topics
-  
+
 ## Topics to cover
 
 * How to actually run a python program, and/or the interpreter
