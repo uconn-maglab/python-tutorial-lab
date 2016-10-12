@@ -136,4 +136,4 @@ Now, define a variable `e` (in IPython) whose value is the sum of `a` and `b`, d
 
 ## That's all for this section!
 
-Next up is `03_boolean-operators.py`
+Next up is `03_boolean-operators.md`
