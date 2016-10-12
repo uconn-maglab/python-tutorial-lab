@@ -2,6 +2,29 @@
 
 > These expand on the examples provided in the tutorial files, so that you can see other ways some of these concepts can be used, or get more practice guessing what they'll do, or use them as a springboard for your own code.
 
+## for loops
+
+```python
+tutorial = ["Hello World", "Math", "Boolean operators", "Lists", "Iteration",
+    "Control flow", "Functions", "Object-oriented programming"]
+
+class Rachael:
+    def __init__(self, tut_list):
+        self.tutorial = tut_list
+
+    def say(self, utterance):
+        print(utterance)
+
+    def introduce_topics(self):
+        for section in self.tutorial:
+            self.say(section + " is a really important and useful tool!")
+
+
+
+rachael = Rachael(tutorial)
+rachael.introduce_topics()
+```
+
 ## Functions
 
 ```python
