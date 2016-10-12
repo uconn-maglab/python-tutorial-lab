@@ -1,2 +1,5 @@
-# python-tutorial-lab
-Currently a scratchspace for the upcoming python tutorial; will eventually hold the materials for the tutorial.
+# Python Tutorial for lab meeting 10/12/16
+
+Here you can find the materials for the Python tutorial.
+
+The actual instruction files are numbered (`0x_topic.md`), and you can find more examples in `examples.py`.
