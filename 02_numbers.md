@@ -102,3 +102,38 @@ But, when you divide two *integers*, you get an integer. The remainder is discar
 ```
 
 returns `2`.
+
+On the other hand, we have the **modulus** function (`%`). This returns *only the remainder*.
+
+```python
+5 % 2
+```
+
+returns `1`.
+
+### Try it yourself: division
+
+First, go back to `numbers.py` and define a variable `c` whose value is 1.5. Then define one more variable, `d`, and give it a value of 3, **but make it a float.**
+
+Go back to IPython and `%run numbers.py` to bring your new variables into memory.
+
+Try these lines, guessing in advance what they will do:
+
+```python
+a / b
+b / a
+a * c
+b / c
+d / c
+b % a
+c % a  
+a % c
+```
+
+Now, define a variable `e` (in IPython) whose value is the sum of `a` and `b`, divided by the product of `c` and `d`. What will the value of `e` be? What **type** (integer or float) will `e` be?
+
+> Call `type(e)` to see if you're right.
+
+## That's all for this section!
+
+Next up is `03_boolean-operators.py`
