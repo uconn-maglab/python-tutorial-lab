@@ -90,6 +90,29 @@ Go back to `lists.py`. Write a loop that would print the following:
     I need to get more pineapples.
     Time for a grocery run!
 
+## Advanced topic: while loops and list comprehension
+
+I won't go into detail about these for the sake of time, but you should know about **while loops** and **list comprehension**. Instead, I will leave it as a challenge. See if you can figure out what these code snippets are doing and why. I'd be happy to work through them with you if you have questions about them later.
+
+while loop: (hint: the `+=` operator is called "recursive addition" and it's---get this---really useful)
+
+```python
+x = 1
+y = []
+while x <= 5:
+    y.append(2**x)
+    x += 1
+print(y)
+```
+
+list comprehension:
+
+```python
+x = [1, 2, 3, 4, 5]
+y = [2**i for i in x]
+print(y)
+```
+
 ## Up next: control flow
 
 See `05_control-flow.md` to get started with that.
